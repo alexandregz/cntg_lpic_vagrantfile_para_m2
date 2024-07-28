@@ -1,5 +1,5 @@
 # cntg_lpic_vagrantfile_para_m2
-Vagrantfile para empregar en chips Apple M2 para crear máquinas virtuais empregadas no LPIC-2 do CNTG
+Vagrantfile para empregar en chips Apple M2 para crear máquinas virtuais empregadas no LPIC-2 e LPIC-1 do CNTG
 
 ## Requerimentos
 
